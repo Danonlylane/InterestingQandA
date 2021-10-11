@@ -2,7 +2,7 @@
 
 ### 1.期望页面：
 
-<img src="https://tva1.sinaimg.cn/large/008i3skNgy1guv0tx171wj60gm0ye75b02.jpg" style="zoom:25%;" />
+<img src="https://tva1.sinaimg.cn/large/008i3skNgy1guv0tx171wj60gm0ye75b02.jpg" width="300px" />
 
 
 
